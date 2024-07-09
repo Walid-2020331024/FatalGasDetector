@@ -14,3 +14,9 @@ The Fatal Gas Detector is a microprocessor-based project designed to detect haza
 
 ## Apps & Tools
 - Arduino IDE: The open-source software used to write and upload code to the Arduino board. [Download here](https://www.arduino.cc/en/software)
+
+## Schematics and Circuit Diagrams
+![Schematic Diagram](Schematic%20Diagram.jpg)
+
+## Checkout Our Documentation:
+[Documentation](Documentation.pdf)
