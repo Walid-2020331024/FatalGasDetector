@@ -1,4 +1,10 @@
-# Fatal Gas Detector
+<div align="center">
+  <img src="arduino-icon.svg" alt="Arduino Logo">
+  
+  # Fatal Gas Detector
+  
+  **A microprocessor-based project to detect hazardous gases and alarm individuals.**
+</div>
 
 ## Introduction
 The Fatal Gas Detector is a microprocessor-based project designed to detect hazardous gases and alarm individuals in the vicinity. This project utilizes an Arduino Uno microcontroller to identify dangerous gases and trigger alerts, ensuring safety in various environments such as industrial, residential, and commercial settings.
@@ -20,3 +26,10 @@ The Fatal Gas Detector is a microprocessor-based project designed to detect haza
 
 ## Checkout Our Documentation:
 For detailed information and further instructions, refer to the [Project Documentation](Documentation.pdf)
+
+## Team Members
+- Latifur Rahman Walid
+- Ehsanul Haque Sinin
+- S.M. Mubassir Mahfuz
+- Md Mahfuj Alam
+- Amit Biswas
