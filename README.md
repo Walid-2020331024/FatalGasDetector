@@ -19,4 +19,4 @@ The Fatal Gas Detector is a microprocessor-based project designed to detect haza
 ![Schematic Diagram](Schematic%20Diagram.jpg)
 
 ## Checkout Our Documentation:
-[Documentation](Documentation.pdf)
+For detailed information and further instructions, refer to the [Project Documentation](Documentation.pdf)
